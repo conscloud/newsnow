@@ -30,6 +30,13 @@ export const originSources = {
     color: "blue",
     home: "https://www.zhihu.com",
   },
+    "dailyzhihu": {
+    name: "知乎日报",
+    type: "hottest",
+    column: "china",
+    color: "blue",
+    home: "https://daily.zhihu.com",
+  },
   "weibo": {
     name: "微博",
     title: "实时热搜",
